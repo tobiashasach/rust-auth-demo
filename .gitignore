@@ -1,0 +1,8 @@
+# Artifacts
+/target
+
+# Environment
+.env
+
+# Keys
+*.pem
